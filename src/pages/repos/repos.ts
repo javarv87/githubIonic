@@ -15,8 +15,4 @@ export class ReposPage {
 
   constructor(public navCtrl: NavController) {}
 
-  ionViewDidLoad() {
-    console.log('ionViewDidLoad ReposPage');
-  }
-
 }

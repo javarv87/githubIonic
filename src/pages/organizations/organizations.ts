@@ -15,8 +15,4 @@ export class OrganizationsPage {
 
   constructor(public navCtrl: NavController) {}
 
-  ionViewDidLoad() {
-    console.log('ionViewDidLoad OrganizationsPage');
-  }
-
 }
